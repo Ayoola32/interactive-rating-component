@@ -71,9 +71,9 @@ Moreso, the uses of styling framework using bootstrap and tailwind, i need to re
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/@ayoola_32)
+- Website - [Interactive Rating Components](https://www.your-site.com)
+- Frontend Mentor - [@Ayoola32](https://www.frontendmentor.io/profile/yourusername)
+- Twitter - [@ayoola_32](https://www.twitter.com/@ayoola_32)
 
 ## Acknowledgments
 
